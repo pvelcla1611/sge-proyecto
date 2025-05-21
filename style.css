@@ -50,7 +50,6 @@ video {
   margin-top: 1em;
 }
 
-/* Media query */
 @media (min-width: 600px) {
   nav {
     flex-direction: row;
